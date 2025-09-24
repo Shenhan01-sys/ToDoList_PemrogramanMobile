@@ -1,0 +1,1 @@
+C:\Users\hansg\source\repos\ToDoList\ToDoList\ToDoList.Shared\obj\Debug\net9.0\staticwebassets.build.json

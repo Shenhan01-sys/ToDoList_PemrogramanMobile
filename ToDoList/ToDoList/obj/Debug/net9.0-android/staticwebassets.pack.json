@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hansg\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\ToDoList.styles.css",
+      "PackagePath": "staticwebassets\\ToDoList.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\hansg\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\hansg\\source\\repos\\ToDoList\\ToDoList\\ToDoList\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.build.ToDoList.props",
+      "PackagePath": "build\\ToDoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildMultiTargeting.ToDoList.props",
+      "PackagePath": "buildMultiTargeting\\ToDoList.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildTransitive.ToDoList.props",
+      "PackagePath": "buildTransitive\\ToDoList.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

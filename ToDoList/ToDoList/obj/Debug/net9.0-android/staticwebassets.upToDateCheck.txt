@@ -1,0 +1,4 @@
+wwwroot\app.css
+wwwroot\index.html
+C:\Users\hansg\source\repos\ToDoList\ToDoList\ToDoList\wwwroot\app.css
+C:\Users\hansg\source\repos\ToDoList\ToDoList\ToDoList\wwwroot\index.html
